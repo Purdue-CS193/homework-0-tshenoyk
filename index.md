@@ -1,3 +1,10 @@
+# Tara's First CS193 Homework
+
+- One of my favorite things about CS193 is that it is run by undergrad students!
+- Another one of my favorite things is that I get to familiarize myself with tools that I will likely use in a future career.
+- I also like the icebreaker questions at the beginning of the lectures!
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
